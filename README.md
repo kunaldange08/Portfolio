@@ -45,4 +45,5 @@ Specialization in Spring Boot & Microservices Architecture
 5.certifications 
  * Java for Beginners – Mind Luster
  * SQL Basics – Mind Luster
+ * 
    
