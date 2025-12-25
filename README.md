@@ -2,7 +2,8 @@
 KUNAL B DANGE
 
 Aspiring Java Full Stack Developer
-Pune, Maharashtra | +91-8265079490 |      EmailId kunaldange08@gmail.com
+Pune, Maharashtra | +91-8265079490 |  
+EmailId kunaldange08@gmail.com
 
 LinkedIn https://www.linkedin.com/in/kunal-b-dange-kd08092004
 
