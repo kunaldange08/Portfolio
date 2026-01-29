@@ -15,7 +15,7 @@ Motivated Computer Science undergraduate and aspiring Full Stack Engineer with a
 2. Technical Arsenal
 | Domain | Technologies |
 |---|---|
-| Core Languages | Java (SE) (OOPs, Collections, Multithreading), PHP |
+| Core Languages | Java (SE) (OOPs, Collections, Multithreading), PHP 
 | Backend Frameworks | Spring Boot, Spring Security, Hibernate (JPA), REST APIs |
 | Frontend Technologies | HTML5, CSS3, JavaScript |
 | Database Management | SQL (DDL, DML, DQL, DCL, DTL) |
@@ -37,14 +37,15 @@ Technical Implementation:
 
 
 4. Education & Certifications
-Bachelor of Computer Science (B.Sc. CS) | Pursuing
+Bachelor of Computer Science (BSc. CS) | Pursuing
 Pune, Maharashtra
-Java Full Stack Development Bootcamp | Pursuing
+Java Full Stack Development with DevOps course | Pursuing
 Specialization in Spring Boot & Microservices Architecture
+
 
 
 5.certifications 
  * Java for Beginners – Mind Luster
  * SQL Basics – Mind Luster
- * 
+ * introduction to Linux -linux foundation 
    
